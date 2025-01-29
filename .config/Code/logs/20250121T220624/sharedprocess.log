@@ -1,0 +1,4 @@
+2025-01-21 22:06:30.614 [info] Started initializing default profile extensions in extensions installation folder. file:///home/hafiz/.vscode/extensions
+2025-01-21 22:06:31.119 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/hafiz/.vscode/extensions Unable to create file 'vscode-userdata:/home/hafiz/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-01-21 22:06:31.120 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/hafiz/.vscode/extensions
+2025-01-21 22:47:36.754 [error] [network] #13: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_EMPTY_RESPONSE
